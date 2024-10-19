@@ -1,6 +1,7 @@
 # Anime Content Web Page
 
 Welcome to the Anime Content Web Page! This project is designed for anime enthusiasts to watch, download, and share anime content while staying updated with the latest news and updates from the anime world.
+- Web link:[Anime-Website](https://thiru-00.github.io/Anime-Website/)
 
 ## Table of Contents
 
@@ -37,11 +38,11 @@ To run this project, ensure you have the following installed on your system:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/anime-page.git
+    git clone https://github.com/thiru-00/Anime-Website.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd anime-page
+    cd Anime-Website
     ```
 3. Open `index.html` in your preferred web browser.
 
@@ -72,3 +73,4 @@ For any questions or feedback, feel free to reach out:
 - Name: Thirumalai K
 - Email: thirumalai.kb2@gmail.com
 - GitHub: [thiru-00](https://github.com/thiru-00)
+
